@@ -29,11 +29,11 @@
 ```sh
 npm install redux
 ```
--Axios
+- Axios
 ```sh
  npm install axios
  ```
- Google Maps Search Component for React Native
+ - Google Maps Search Component for React Native
  ```sh
  npm install react-native-google-places-autocomplete --save
  ```
